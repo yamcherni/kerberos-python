@@ -1,4 +1,4 @@
-#Yam chernichovsky , 327484085
+#Yam chernichovsky
 from header import *
 # Define the default server address and port
 default_server_address = ('localhost', 1256) #server adress of authentication server

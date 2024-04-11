@@ -1,4 +1,4 @@
-#yam chernichovsky , 327484085
+#yam chernichovsky
 from header import *
 import threading
 

@@ -1,4 +1,4 @@
-#Yam chernichovsky, 327484085
+#Yam chernichovsk
 import socket
 import socket
 import os
